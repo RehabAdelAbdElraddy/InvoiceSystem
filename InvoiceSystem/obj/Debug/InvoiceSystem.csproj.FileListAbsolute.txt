@@ -1,0 +1,15 @@
+F:\ITIGraduationProject\InvoiceSystem\InvoiceSystem\obj\Debug\InvoiceSystem.csprojAssemblyReference.cache
+F:\ITIGraduationProject\InvoiceSystem\InvoiceSystem\obj\Debug\InvoiceSystem.Form1.resources
+F:\ITIGraduationProject\InvoiceSystem\InvoiceSystem\obj\Debug\InvoiceSystem.Properties.Resources.resources
+F:\ITIGraduationProject\InvoiceSystem\InvoiceSystem\obj\Debug\InvoiceSystem.csproj.GenerateResource.cache
+F:\ITIGraduationProject\InvoiceSystem\InvoiceSystem\obj\Debug\InvoiceSystem.csproj.CoreCompileInputs.cache
+F:\ITIGraduationProject\InvoiceSystem\InvoiceSystem\bin\Debug\InvoiceSystem.exe.config
+F:\ITIGraduationProject\InvoiceSystem\InvoiceSystem\bin\Debug\InvoiceSystem.exe
+F:\ITIGraduationProject\InvoiceSystem\InvoiceSystem\bin\Debug\InvoiceSystem.pdb
+F:\ITIGraduationProject\InvoiceSystem\InvoiceSystem\bin\Debug\EntityFramework.dll
+F:\ITIGraduationProject\InvoiceSystem\InvoiceSystem\bin\Debug\EntityFramework.SqlServer.dll
+F:\ITIGraduationProject\InvoiceSystem\InvoiceSystem\bin\Debug\EntityFramework.xml
+F:\ITIGraduationProject\InvoiceSystem\InvoiceSystem\bin\Debug\EntityFramework.SqlServer.xml
+F:\ITIGraduationProject\InvoiceSystem\InvoiceSystem\obj\Debug\InvoiceSystem.csproj.CopyComplete
+F:\ITIGraduationProject\InvoiceSystem\InvoiceSystem\obj\Debug\InvoiceSystem.exe
+F:\ITIGraduationProject\InvoiceSystem\InvoiceSystem\obj\Debug\InvoiceSystem.pdb
